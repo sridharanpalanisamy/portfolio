@@ -125,7 +125,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 📞 Contact
 
-Sanskar Singh - [sanskarsingh.dev@gmail.com](mailto:sanskarsingh.dev@gmail.com)
+Sanskar Singh - [sridharanpalanisamy96@gmail.com](mailto:sridharanpalanisamy96@gmail.com)
 
 Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
 
