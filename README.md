@@ -25,7 +25,6 @@ A modern, responsive vCard portfolio website built with HTML, CSS, and JavaScrip
 
 ## 📁 Project Structure
 
-```
 portfolio/
 ├── assets/
 │   ├── css/
@@ -35,7 +34,7 @@ portfolio/
 │   └── images/                # All portfolio images
 ├── index.html                 # Main HTML file
 └── README.md                  # Project documentation
-```
+
 
 ## 🚀 Getting Started
 
@@ -47,17 +46,14 @@ portfolio/
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+git clone https://github.com/your-username/your-repo-name.git
+   
 
 2. Navigate to the project directory:
-   ```bash
    cd portfolio
-   ```
 
 3. Open `index.html` in your browser or use a local server:
-   ```bash
+
    # Using Python
    python -m http.server 8000
    
@@ -66,7 +62,7 @@ portfolio/
    
    # Using PHP
    php -S localhost:8000
-   ```
+   
 
 ## 🎨 Customization
 
