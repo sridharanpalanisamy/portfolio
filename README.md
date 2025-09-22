@@ -26,13 +26,21 @@ A modern, responsive vCard portfolio website built with HTML, CSS, and JavaScrip
 ## 📁 Project Structure
 
 portfolio/
+
 ├── assets/
+
 │   ├── css/
+
 │   │   └── style.css          # Main stylesheet
+
 │   ├── js/
+
 │   │   └── script.js          # JavaScript functionality
+
 │   └── images/                # All portfolio images
+
 ├── index.html                 # Main HTML file
+
 └── README.md                  # Project documentation
 
 
