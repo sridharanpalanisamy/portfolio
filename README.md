@@ -125,11 +125,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/your-repo-name/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/sridharanpalanisamy/portfolio/issues).
 
 ## 📞 Contact
 
-Sanskar Singh - [sridharanpalanisamy96@gmail.com](mailto:sridharanpalanisamy96@gmail.com)
+Sridharan P - [sridharanpalanisamy96@gmail.com](mailto:sridharanpalanisamy96@gmail.com)
 
 Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
 
