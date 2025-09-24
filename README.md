@@ -68,7 +68,7 @@ git clone https://github.com/your-username/your-repo-name.git
    * Using Node.js
    npx serve
    
-   # Using PHP
+   * Using PHP
    php -S localhost:8000
    
 
