@@ -62,7 +62,7 @@ git clone https://github.com/your-username/your-repo-name.git
 
 3. Open `index.html` in your browser or use a local server:
 
-   # Using Python
+   Using Python
    python -m http.server 8000
    
    # Using Node.js
