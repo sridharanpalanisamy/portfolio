@@ -131,7 +131,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Sridharan P - [sridharanpalanisamy96@gmail.com](mailto:sridharanpalanisamy96@gmail.com)
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+Project Link: [https://github.com/sridharanpalanisamy/portfolio](https://github.com/sridharanpalanisamy/portfolio)
 
 ## 🙏 Acknowledgments
 
