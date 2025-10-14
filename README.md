@@ -1,6 +1,6 @@
 # Sridharan P - Personal Portfolio
 
-A modern, responsive vCard portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and experience as an Application Developer.
+ A modern, responsive vCard portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and experience as an Application Developer.
 
 ![Portfolio Preview](https://via.placeholder.com/800x400/2D3748/FFFFFF/?text=Sridharan+P+Portfolio)
 
