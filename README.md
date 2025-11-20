@@ -5,6 +5,7 @@
 ![Portfolio Preview](https://via.placeholder.com/800x400/2D3748/FFFFFF/?text=Sridharan+P+Portfolio)
 
 ## 🌟 Features
+
 - **Responsive Design**: Looks great on all devices (mobile, tablet, desktop)
 - **Modern UI**: Clean and professional interface
 - **Interactive Elements**: Smooth animations and transitions
