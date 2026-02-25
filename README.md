@@ -113,10 +113,10 @@ Replace placeholder images in the `assets/images/` folder:
 
 ## 🌐 Browser Support
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+- Chrome 
+- Firefox 
+- Safari 
+- Edge 
 
 ## 📄 License
 
