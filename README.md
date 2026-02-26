@@ -70,7 +70,6 @@ git clone https://github.com/your-username/your-repo-name.git
    * Using PHP
    php -S localhost:8000
    
-
 ## 🎨 Customization
 
 ### Personal Information
