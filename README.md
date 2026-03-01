@@ -110,8 +110,7 @@ Replace placeholder images in the `assets/images/` folder:
 - **Blog**: Latest articles and posts (can be connected to a CMS)
 - **Contact**: Contact form and location map
 
-## 🌐 Browser Support
-
+## 🌐 Browser Support 
 - Chrome 
 - Firefox 
 - Safari 
