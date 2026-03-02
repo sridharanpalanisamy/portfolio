@@ -46,6 +46,7 @@ portfolio/
 ### Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
+- 
 - Basic understanding of HTML, CSS, and JavaScript (for customization)
 
 ### Installation
