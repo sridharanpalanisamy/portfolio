@@ -8,6 +8,7 @@
 - **Responsive Design**: Looks great on all devices (mobile, tablet, desktop)
   
 - **Modern UI**: Clean and professional interface
+  
 - **Interactive Elements**: Smooth animations and transitions
 - **Portfolio Showcase**: Display projects with filtering options
 - **Contact Form**: Easy way for potential clients/employers to reach out
