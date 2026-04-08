@@ -15,6 +15,7 @@
 - 
 - **Contact Form**: Easy way for potential clients/employers to reach out
 - **Testimonials Section**: Client feedback and recommendations
+  
 - **Dark/Light Theme**: Built-in theme support (can be extended)
 
 ## 🛠️ Technologies Used
