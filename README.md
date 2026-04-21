@@ -27,6 +27,7 @@
 - **JavaScript**: ES6+ for interactive elements
  
 - **Ion Icons**: Beautiful icon library
+ 
 - **Google Fonts**: Poppins font family
 
 ## 📁 Project Structure
