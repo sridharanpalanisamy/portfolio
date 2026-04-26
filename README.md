@@ -20,6 +20,7 @@
 - **Dark/Light Theme**: Built-in theme support (can be extended)
 
 ## 🛠️ Technologies Used
+
 - **HTML5**: Semantic markup
   
 - **CSS3**: Custom properties, Flexbox, Grid, animations
