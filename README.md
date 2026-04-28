@@ -84,7 +84,6 @@ git clone https://github.com/your-username/your-repo-name.git
 ## 🎨 Customization
 
 ### Personal Information
-
 Edit the following sections in `index.html`:
 
 1. **Personal Details**: Update name, title, email, phone, etc.
