@@ -89,6 +89,7 @@ Edit the following sections in `index.html`:
 1. **Personal Details**: Update name, title, email, phone, etc.
 
 2. **About Section**: Modify the about me text in the about section
+
 3. **Services**: Update the services you offer
 4. **Education & Experience**: Add your own education and work history
 5. **Skills**: Update skills and proficiency levels
