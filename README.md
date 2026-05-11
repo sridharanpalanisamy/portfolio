@@ -67,10 +67,10 @@ portfolio/
 git clone https://github.com/your-username/your-repo-name.git
    
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    cd portfolio
 
-4. Open index.html in your browser or use a local server:
+3. Open index.html in your browser or use a local server:
 
    * Using Python
    python -m http.server 8000
