@@ -93,9 +93,13 @@ Edit the following sections in `index.html`:
 3. **Services**: Update the services you offer
 
 4. **Education & Experience**: Add your own education and work history
+
 5. **Skills**: Update skills and proficiency levels
+
 6. **Projects**: Replace with your own projects and images
+
 7. **Testimonials**: Add real client testimonials
+
 8. **Contact Information**: Update contact details and map location
 
 ### Styling
