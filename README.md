@@ -150,7 +150,9 @@ Project Link: [https://github.com/sridharanpalanisamy/portfolio](https://github.
 ## 🙏 Acknowledgments
 
 - Design inspired by various modern portfolio templates
+  
 - Icons by [Ion Icons](https://ionicons.com/)
+  
 - Fonts by [Google Fonts](https://fonts.google.com/)
 
 ---
