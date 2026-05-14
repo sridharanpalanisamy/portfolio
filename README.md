@@ -107,6 +107,7 @@ Edit the following sections in `index.html`:
 Modify `assets/css/style.css` to change colors, fonts, and overall design:
 
 - Color scheme: Update CSS custom properties (variables)
+
 - Typography: Change font families and sizes
 - Layout: Adjust spacing and component arrangements
 
