@@ -117,7 +117,9 @@ Modify `assets/css/style.css` to change colors, fonts, and overall design:
 Replace placeholder images in the `assets/images/` folder:
 
 - `my-avatar.png`: Your profile picture
+
 - Project images: Screenshots of your work
+
 - Client logos: Logos of companies you've worked with
 
 ## 📱 Sections
