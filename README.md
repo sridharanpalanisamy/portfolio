@@ -7,7 +7,7 @@
 
 ## 🌟 Features
 - **Responsive Design**: Looks great on all devices (mobile, tablet, desktop)
-  
+
 - **Modern UI**: Clean and professional interface
   
 - **Interactive Elements**: Smooth animations and transitions
