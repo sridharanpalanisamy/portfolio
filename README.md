@@ -75,7 +75,7 @@ git clone https://github.com/your-username/your-repo-name.git
 
    * Using Python
    python -m http.server 8000
-   
+
    * Using Node.js
    npx serve
    
